@@ -170,7 +170,7 @@ body { overflow-x: hidden; font: normal 14px "bebasregular", "Helvetica Neue", H
 
 .background-white { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: rgba(0, 0, 0, 0.8); }
 
-h1 { display: block; font-size: 6em; text-align: center; margin: 0; padding: 10px 20px; color: #cccccc; background: rgba(0, 0, 0, 0.8); }
+/* h1 { display: block; font-size: 6em; text-align: center; margin: 0; padding: 10px 20px; color: #cccccc; background: rgba(0, 0, 0, 0.8); } */
 
 .link { color: #0fc6cc; display: block; text-align: center; letter-spacing: 3px; font-size: 4em; margin: 10px 0 0; padding: 10px 20px; background: rgba(0, 0, 0, 0.8); }
 .link:hover { color: #f5d400; }
